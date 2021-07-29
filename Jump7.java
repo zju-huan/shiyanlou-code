@@ -5,6 +5,7 @@ public class Jump7{
                 continue;
             }
             System.out.println(i);
+            System.out.println(i);
         }
     }
 }
